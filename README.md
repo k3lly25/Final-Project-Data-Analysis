@@ -2,7 +2,8 @@
 
 # Title
 
-COVID-19 Fake News Detection Based on Natural Language Processing
+COVID-19 Data Analysis on Social Media
+(Fake News Detection Based on Natural Language Processing)
 
 ## Background
 
